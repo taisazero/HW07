@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.example.zero.hw07.MainActivity">
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="140dp"
+        android:layout_height="104dp"
+        app:srcCompat="@drawable/._app_icon.png"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="143dp" />
 </android.support.constraint.ConstraintLayout>
